@@ -1,6 +1,3 @@
-Tela do repositório camilafernanda2/camilafernanda2 no GitHub, onde está em destaque com o número 1 a opção Actions na barra superior ao arquivo. E com o número 2, está em destaque o texto em azul “set up a workflow yourself →”.
-E cole o seguinte código no editor de texto que irá abrir:
-
 name: Generate Datas
 
 on:
