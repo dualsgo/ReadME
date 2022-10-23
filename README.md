@@ -1,5 +1,8 @@
 ![Snake animation](https://github.com/dualsgo/dualsgo/blob/output/github-contribution-grid-snake.svg)
 
+### Ferramentas que estou aprendendo
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs, git, react, angular)](https://skills.thijs.gg)
 
 
 <div>
