@@ -8,11 +8,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br>
-<div>
-<a href="https://github.com/dualsgo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dualsgo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dualsgo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <h2>Contatos:</h2>
 <br>
